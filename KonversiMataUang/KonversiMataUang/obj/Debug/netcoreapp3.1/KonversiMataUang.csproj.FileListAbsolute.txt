@@ -1,0 +1,15 @@
+C:\Users\Fredi\Desktop\PBKK A\SC PBKK\KonversiMataUang\KonversiMataUang\bin\Debug\netcoreapp3.1\KonversiMataUang.exe
+C:\Users\Fredi\Desktop\PBKK A\SC PBKK\KonversiMataUang\KonversiMataUang\bin\Debug\netcoreapp3.1\KonversiMataUang.deps.json
+C:\Users\Fredi\Desktop\PBKK A\SC PBKK\KonversiMataUang\KonversiMataUang\bin\Debug\netcoreapp3.1\KonversiMataUang.runtimeconfig.json
+C:\Users\Fredi\Desktop\PBKK A\SC PBKK\KonversiMataUang\KonversiMataUang\bin\Debug\netcoreapp3.1\KonversiMataUang.runtimeconfig.dev.json
+C:\Users\Fredi\Desktop\PBKK A\SC PBKK\KonversiMataUang\KonversiMataUang\bin\Debug\netcoreapp3.1\KonversiMataUang.dll
+C:\Users\Fredi\Desktop\PBKK A\SC PBKK\KonversiMataUang\KonversiMataUang\bin\Debug\netcoreapp3.1\KonversiMataUang.pdb
+C:\Users\Fredi\Desktop\PBKK A\SC PBKK\KonversiMataUang\KonversiMataUang\obj\Debug\netcoreapp3.1\KonversiMataUang.csprojAssemblyReference.cache
+C:\Users\Fredi\Desktop\PBKK A\SC PBKK\KonversiMataUang\KonversiMataUang\obj\Debug\netcoreapp3.1\KonversiMataUang.Form1.resources
+C:\Users\Fredi\Desktop\PBKK A\SC PBKK\KonversiMataUang\KonversiMataUang\obj\Debug\netcoreapp3.1\KonversiMataUang.csproj.GenerateResource.cache
+C:\Users\Fredi\Desktop\PBKK A\SC PBKK\KonversiMataUang\KonversiMataUang\obj\Debug\netcoreapp3.1\KonversiMataUang.AssemblyInfoInputs.cache
+C:\Users\Fredi\Desktop\PBKK A\SC PBKK\KonversiMataUang\KonversiMataUang\obj\Debug\netcoreapp3.1\KonversiMataUang.AssemblyInfo.cs
+C:\Users\Fredi\Desktop\PBKK A\SC PBKK\KonversiMataUang\KonversiMataUang\obj\Debug\netcoreapp3.1\KonversiMataUang.csproj.CoreCompileInputs.cache
+C:\Users\Fredi\Desktop\PBKK A\SC PBKK\KonversiMataUang\KonversiMataUang\obj\Debug\netcoreapp3.1\KonversiMataUang.dll
+C:\Users\Fredi\Desktop\PBKK A\SC PBKK\KonversiMataUang\KonversiMataUang\obj\Debug\netcoreapp3.1\KonversiMataUang.pdb
+C:\Users\Fredi\Desktop\PBKK A\SC PBKK\KonversiMataUang\KonversiMataUang\obj\Debug\netcoreapp3.1\KonversiMataUang.genruntimeconfig.cache
